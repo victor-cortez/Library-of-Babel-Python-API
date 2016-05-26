@@ -1,7 +1,7 @@
 # Library-of-Babel-Python-API
 A Python API for automated usage of the Library of Babel (https://libraryofbabel.info/)
 
-#Original Project
+#The Project
 https://libraryofbabel.info/
 
 #Usage
@@ -9,3 +9,4 @@ https://libraryofbabel.info/
   
 #Development
  The module is in early development, soon i will make inprovements. If you want to talk about or help, send me an email: victorcortezcb@gmail.com
+ Just to make clear, i am in no way associated with the project or any of the creators of it.
